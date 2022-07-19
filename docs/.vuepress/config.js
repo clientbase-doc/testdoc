@@ -2,7 +2,7 @@ const { defaultTheme } = require('vuepress')
 
 module.exports = {
   lang: 'ru-RU',
-  base: '/',
+  base: '/testdoc/',
   title: 'Clientbase Test Doc',
   description: 'clientbase test documentation site',
   theme: defaultTheme({
