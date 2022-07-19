@@ -2,8 +2,7 @@
 
 Быстрый старт
 
-<div style="text-align:center">
-
-![](/images/cb_logo_big.png)
-
-</div>
+Для начала, установите Кб на свой сервер:
+```bash
+wget -qO- https://clientbase.ru/download/install/install-cb-ubuntu-1804.sh | sudo bash
+```
