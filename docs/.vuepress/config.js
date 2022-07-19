@@ -16,16 +16,16 @@ module.exports = {
         link: '/manual/',
       },
       {
-        text: 'Админка',
-        link: '/admin/#',
-      },
-      {
         text: 'Сайт КБ',
         link: 'https://clientbase.ru/',
       },
       {
         text: 'Заявка в ТП',
         link: 'https://clientbase.ru/support/form.html',
+      },
+      {
+        text: 'Админка',
+        link: '/admin/#',
       },
     ],
     sidebar: {
