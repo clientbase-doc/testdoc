@@ -16,6 +16,10 @@ module.exports = {
         link: '/manual/',
       },
       {
+        text: 'Админка',
+        link: '/admin/#',
+      },
+      {
         text: 'Сайт КБ',
         link: 'https://clientbase.ru/',
       },
