@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c850f7e0","path":"/manual/","title":"\u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E","lang":"ru-RU","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657805695000,"contributors":[{"name":"Andrei V. Goryunov","email":"gor.a@clientbase.ru","commits":1}]},"filePathRelative":"manual/index.md"}');export{e as data};
