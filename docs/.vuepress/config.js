@@ -29,7 +29,11 @@ module.exports = {
         {
           text: 'Пользователю',
           collapsible: true,
-          children: ['/manual/user/desktop/'],
+          children: [
+            '/manual/user/desktop/',
+            '/manual/user/LK/',
+          ],
+        
         },
         {
           text: 'Другое',
