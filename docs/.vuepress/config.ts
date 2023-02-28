@@ -28,6 +28,13 @@ export default {
         sidebar: {
           '/manual/': [
             {
+              text: 'Изучение программы',
+              collapsible: true,
+              children: [
+                '/manual/first_steps/start'
+              ]
+            },
+            {
               text: 'Пользователю',
               collapsible: true,
               children: [
