@@ -4,8 +4,8 @@ import { searchPlugin } from '@vuepress/plugin-search'
 export default {
     lang: 'ru-RU',
     //base: '/testdoc/',
-    title: 'Clientbase Test Doc',
-    description: 'clientbase test documentation site',
+    title: 'Clientbase Тестовая Документация',
+    description: 'Тестовый сайт документации Clientbase',
     theme: defaultTheme({
         navbar: [
           {
