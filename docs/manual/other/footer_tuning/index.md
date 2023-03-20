@@ -36,6 +36,7 @@
 ![](./other_settings_footer_09.png)
 
 Время работы SQL - задается настройка необходимости отображения времени SQL-запросов
+
 ![](./other_settings_footer_10.png)
 
 
