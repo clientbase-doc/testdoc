@@ -4,7 +4,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 export default {
     lang: 'ru-RU',
     //base: '/testdoc/',
-    title: 'CRM КБ. Документация пользователя,
+    title: 'CRM КБ. Документация пользователя',
     description: 'Сайт документации Clientbase',
     theme: defaultTheme({
         navbar: [
