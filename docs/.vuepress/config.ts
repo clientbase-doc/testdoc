@@ -5,7 +5,7 @@ export default {
     lang: 'ru-RU',
     //base: '/testdoc/',
     title: 'Clientbase Тестовая Документация',
-    description: 'Тестовый сайт документации Clientbase тест-17.03-дубль ТРИ!',
+    description: 'Тестовый сайт документации Clientbase тест-20.03-дубль один',
     theme: defaultTheme({
         navbar: [
           {
