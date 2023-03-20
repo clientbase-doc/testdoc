@@ -56,7 +56,7 @@ export default {
       }),
     plugins: [
         searchPlugin({
-        // options
+          maxSuggestions: 10
         }),
     ],
 }
