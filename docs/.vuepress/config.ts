@@ -31,7 +31,7 @@ export default {
               text: 'Изучение программы',
               collapsible: true,
               children: [
-                '/manual/first_steps/start'
+                '/manual/first_steps/start/'
               ]
             },
             {
