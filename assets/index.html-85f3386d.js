@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-791aa46e","path":"/manual/other/disable_copyright/","title":"Отключение копирайта разработчика","lang":"ru-RU","frontmatter":{},"headers":[],"git":{"updatedTime":1680705327000,"contributors":[{"name":"Kseniya","email":"ksenia@clientbase.ru","commits":1}]},"filePathRelative":"manual/other/disable_copyright/index.md"}');export{e as data};

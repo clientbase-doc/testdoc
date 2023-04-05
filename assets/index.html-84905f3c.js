@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2474c665","path":"/manual/other/footer_tuning/","title":"Настройка подвала","lang":"ru-RU","frontmatter":{},"headers":[],"git":{"updatedTime":1680705327000,"contributors":[{"name":"Kseniya","email":"ksenia@clientbase.ru","commits":1}]},"filePathRelative":"manual/other/footer_tuning/index.md"}');export{e as data};
