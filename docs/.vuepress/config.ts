@@ -31,7 +31,7 @@ export default {
               text: 'Конструктор таблиц',
               collapsible: true,
               children: [
-                '/manual/tables/'
+                '/manual/tables/field_type/'
               ]
             },
             {
