@@ -28,6 +28,13 @@ export default {
         sidebar: {
           '/manual/': [
             {
+              text: 'Конструктор таблиц',
+              collapsible: true,
+              children: [
+                '/manual/tables/'
+              ]
+            },
+            {
               text: 'Изучение программы',
               collapsible: true,
               children: [
